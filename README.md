@@ -1,2 +1,9 @@
-# 1st-Project
-this is my 1st project
+1st-Project 
+I have a blog called Mobanol
+I study in Ruparel College
+
+
+
+
+
+
